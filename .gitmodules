@@ -1,0 +1,3 @@
+[submodule "masterPortfolio"]
+	path = masterPortfolio
+	url = https://github.com/nourijp/masterPortfolio.git
