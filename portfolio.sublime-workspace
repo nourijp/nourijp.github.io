@@ -1,0 +1,483 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "experience/index.html",
+			"settings":
+			{
+				"buffer_size": 27902,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					11,
+					1,
+					"paste",
+					null,
+					"AgAAANgZAAAAAAAARxoAAAAAAAAAAAAARxoAAAAAAABHGgAAAAAAANsBAAAgICAgICAgICAgICA8aW1nIGNsYXNzPSJjb3Zlcl9faW1nIGpzLWxhenkgaW1hZ2UtbG9hZGVkIiBzcmM9ImV4cGVyaWVuY2VfZmlsZXMvY2NfMHg4N3g3OTl4NjI1eDc5OS5qcGciIHNyY3NldD0iZXhwZXJpZW5jZV9maWxlcy9jY18weDg3eDc5OXg2MjV4NjQwLmpwZyA2NDB3LCBleHBlcmllbmNlX2ZpbGVzL2NjXzB4ODd4Nzk5eDYyNXg3OTkuanBnIDEyODB3LCBleHBlcmllbmNlX2ZpbGVzL2NjXzB4ODd4Nzk5eDYyNXg3OTkuanBnIDEzNjZ3LCBleHBlcmllbmNlX2ZpbGVzL2NjXzB4ODd4Nzk5eDYyNXg3OTkuanBnIDE5MjB3LCBleHBlcmllbmNlX2ZpbGVzL2NjXzB4ODd4Nzk5eDYyNXg3OTkuanBnIDI1NjB3LCBleHBlcmllbmNlX2ZpbGVzL2NjXzB4ODd4Nzk5eDYyNXg3OTkuanBnIDUxMjB3IiBzaXplcz0iKG1heC13aWR0aDogNTQwcHgpIDEwMHZ3LCAobWF4LXdpZHRoOiA3NjhweCkgNTB2dywgY2FsYygxNDAwcHggLyAzKSI+",
+					"AQAAAAAAAAABAAAAsxsAAAAAAADYGQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					17,
+					1,
+					"insert",
+					{
+						"characters": "\t\t\t\t\t\t\t\t\t"
+					},
+					"CQAAAP0VAAAAAAAA/xUAAAAAAAAAAAAA/xUAAAAAAAABFgAAAAAAAAAAAAABFgAAAAAAAAMWAAAAAAAAAAAAAAMWAAAAAAAABRYAAAAAAAAAAAAABRYAAAAAAAAHFgAAAAAAAAAAAAAHFgAAAAAAAAkWAAAAAAAAAAAAAAkWAAAAAAAACxYAAAAAAAAAAAAACxYAAAAAAAANFgAAAAAAAAAAAAANFgAAAAAAAA8WAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA/RUAAAAAAAD9FQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					18,
+					1,
+					"insert",
+					{
+						"characters": "\t\t"
+					},
+					"AgAAAA8WAAAAAAAAERYAAAAAAAAAAAAAERYAAAAAAAATFgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADxYAAAAAAAAPFgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					21,
+					1,
+					"insert",
+					{
+						"characters": "\t\t\t\t\t\t\t"
+					},
+					"BwAAAEkWAAAAAAAAShYAAAAAAAAAAAAAShYAAAAAAABMFgAAAAAAAAAAAABMFgAAAAAAAE4WAAAAAAAAAAAAAE4WAAAAAAAAUBYAAAAAAAAAAAAAUBYAAAAAAABSFgAAAAAAAAAAAABSFgAAAAAAAFQWAAAAAAAAAAAAAFQWAAAAAAAAVhYAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAASRYAAAAAAABJFgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					24,
+					1,
+					"insert",
+					{
+						"characters": "\t\t\t\t\t\t\t"
+					},
+					"BwAAAH0WAAAAAAAAfhYAAAAAAAAAAAAAfhYAAAAAAACAFgAAAAAAAAAAAACAFgAAAAAAAIIWAAAAAAAAAAAAAIIWAAAAAAAAhBYAAAAAAAAAAAAAhBYAAAAAAACGFgAAAAAAAAAAAACGFgAAAAAAAIgWAAAAAAAAAAAAAIgWAAAAAAAAihYAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAfRYAAAAAAAB9FgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					27,
+					1,
+					"insert",
+					{
+						"characters": "\t\t\t\t\t\t\t"
+					},
+					"BwAAAJ8WAAAAAAAAoRYAAAAAAAAAAAAAoRYAAAAAAACjFgAAAAAAAAAAAACjFgAAAAAAAKUWAAAAAAAAAAAAAKUWAAAAAAAApxYAAAAAAAAAAAAApxYAAAAAAACpFgAAAAAAAAAAAACpFgAAAAAAAKsWAAAAAAAAAAAAAKsWAAAAAAAArRYAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAnxYAAAAAAACfFgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					28,
+					1,
+					"insert",
+					{
+						"characters": "\t"
+					},
+					"AQAAAK0WAAAAAAAArxYAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAArRYAAAAAAACtFgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					34,
+					1,
+					"paste",
+					null,
+					"AgAAAOIZAAAAAAAA+hoAAAAAAAAAAAAA+hoAAAAAAAD6GgAAAAAAAMoAAAAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvdmVyIGNvdmVyLW5vcm1hbCI+Cgo8aW1nIGNsYXNzPSJjb3Zlcl9faW1nIGpzLWxhenkgaW1hZ2UtbG9hZGVkIgogICAgICAgICBzcmM9ImV4cGVyaWVuY2VfZmlsZXMvY2MuanBnIgogICAgICAgICBhbHQ9IkNvdmVyIGltYWdlIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+",
+					"AQAAAAAAAAABAAAArBoAAAAAAADiGQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					37,
+					1,
+					"insert",
+					{
+						"characters": "\t"
+					},
+					"AQAAAPQaAAAAAAAA9hoAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA9BoAAAAAAAD0GgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					42,
+					1,
+					"insert",
+					{
+						"characters": "jp"
+					},
+					"AwAAALEaAAAAAAAAshoAAAAAAAAAAAAAshoAAAAAAACyGgAAAAAAAAIAAABjY7IaAAAAAAAAsxoAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAsRoAAAAAAACzGgAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "Experience/ciraconnect/index.html",
+			"settings":
+			{
+				"buffer_size": 9969,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 112.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/hamed/Documents/GitHub/masterPortfolio-clean",
+		"/Users/hamed/Documents/GitHub/masterPortfolio-clean/experience",
+		"/Users/hamed/Documents/GitHub/masterPortfolio-clean/Experience/ciraconnect"
+	],
+	"file_history":
+	[
+		"/Users/hamed/Portfolio",
+		"/Users/hamed/Documents/GitHub/masterPortfolio-clean/media/index.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/adobe-premier-pro/index2.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/procreate/index2.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/procreate/index.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/photoshop/index2.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/photoshop/index.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/notion/index2.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/notion/index.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/more-skills/index2.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/more-skills/index.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/microsoft-windows/index2.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/microsoft-windows/index.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/macos-ios-ipados/index2.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/macos-ios-ipados/index.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/linux/index2.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/linux/index.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/indesign/index2.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/indesign/index.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/illustrator/index2.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/illustrator/index.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/html/index.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/html/html.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/google-analytics/index2.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/google-analytics/index.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/github/index2.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/github/index.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/facebook-creator/index2.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/facebook-creator/index.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/css/index2.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/css/index.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/adobe-premier-pro/index.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/adobe-audition/index.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/adobe-animate/index.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Experience/index.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/index.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/index.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Portfolio-site.sublime-project",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Work/Index.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/adobe/index.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Experience/zayn-myza/index.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Experience/wwoof-japan/index.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Experience/university-of-texas/index.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Experience/university-of-north-texas/index.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Experience/ukm/index.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Experience/mmanga/index.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Experience/diydaisy/index.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Experience/fans-conference/index.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Experience/ieli/ieli.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Experience/jet-programme/index.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Awards/index.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Experience/aya-sura/index.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Work/manga/index.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Work/edit/index.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Work/childrens-books/index.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Work/Photography/index.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Work/web/web.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Index.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Work/writingediting/index.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/home.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Work/voice/index.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Work/social-media-accomplishments/index.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Work/web/index.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Work/webtoons/index.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/Hamed N. - Wordpress.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/Hamed N. - ProCreate.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/Hamed N. - Photoshop.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/Hamed N. - Notion.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/Hamed N. - More Skills.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/wordpress/index.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/Hamed N. - Microsoft Windows.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/Hamed N. - MacOS, iOS, iPadOS.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/Hamed N. - Linux.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/Hamed N. - Java.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/Hamed N. - InDesign.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/Hamed N. - Illustrator.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/Hamed N. - HTML.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/Hamed N. - Google Analytics.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/Hamed N. - GitHub.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/Hamed N. - Facebook Creator.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/Hamed N. - CSS.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/Hamed N. - Adobe.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/Hamed N. - Adobe Premier Pro.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/Hamed N. - Adobe Audition.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/Hamed N. - Adobe Animate.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Media/nhk-manga-de-shiru-isuramu.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Media/nhk-isuramu-konna-kanji.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Media/nhk-bs1-2018.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Experience/Hamed N. - Content Marketing at Zayn & Myza.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Experience/Hamed N. - Photographer for @_DIYDaisy.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Experience/Hamed N. - Presenter at FANS Conference.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Experience/Hamed N. - Project Manager at Muslim Manga.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Experience/Hamed N. - Speaker at UKM.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Experience/Hamed N. - Teaching ESL at IELI.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Experience/Hamed N. - Teaching ESL at UT.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Experience/Hamed N. - Teaching ESL in Tokyo via Jet Programme.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Experience/Hamed N. - Teaching Japanese at UNT.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Experience/Hamed N. - Volunteer at WWOOF Japan.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Experience/Hamed N. - Writing and Editing at Aya & Sura, LLC.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Awards/Hamed N. - 1st Place BPA Web Design.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Awards/Hamed N. - 1st Place Dallas Japanese speech Contest.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Awards/Hamed N. - 2nd Place Narrative House Apps_Website.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Awards/Hamed N. - Best Global Comics_ Graphic Novels.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Awards/Hamed N. - Jet Kizuna Ambassador.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Media/Life-in-Hokkaido.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Media/index.html",
+		"/Users/hamed/Documents/GitHub/masterPortfolio-clean/src/portfolio.js",
+		"/Users/hamed/Documents/GitHub/masterPortfolio-clean/package.json",
+		"/Users/hamed/Documents/GitHub/masterPortfolio-clean/src/pages/splash/Splash.js",
+		"/Users/hamed/Documents/GitHub/masterPortfolio/package.json",
+		"/Users/hamed/Downloads/masterPortfolio-master/public/index.html",
+		"/Users/hamed/Downloads/Invoices/podcast episodes 2 - 4-  Transactions - PayPal.html",
+		"/Users/hamed/Downloads/Past Due Account Balance Reminder.html",
+		"/Users/hamed/Downloads/Community Garage Sale.html",
+		"/Users/hamed/Downloads/Keeping Our Community Beautiful - Simple Reminders for Homeowners.html",
+		"/Users/hamed/Downloads/Volunteers Needed copy.html",
+		"/Users/hamed/Downloads/Wild Animals Reminder.html",
+		"/Users/hamed/Downloads/Upcoming Fire Alarm Maintenance.html",
+		"/Users/hamed/Downloads/Budget Ratification Meeting Notice.html",
+		"/Users/hamed/Documents/3. Resources/Raycast Scripts/launch-work.sh",
+		"/Volumes/Kindle/koreader/defaults.lua",
+		"/Users/hamed/Documents/3. Resources/Raycast Scripts/search.sh",
+		"/Users/hamed/Documents/3. Resources/Raycast Scripts/parenting.sh",
+		"/Users/hamed/Documents/3. Resources/Raycast Scripts/photography.sh",
+		"/Users/hamed/Documents/3. Resources/Raycast Scripts/legal.sh",
+		"/Users/hamed/Documents/3. Resources/Raycast Scripts/work-cc-main.sh",
+		"/Users/hamed/Documents/3. Resources/Raycast Scripts/learn-japanese.sh",
+		"/Users/hamed/Documents/3. Resources/Raycast Scripts/Learn-Japanese.sh"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "experience/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 27902,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6153,
+								6153
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1191.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Experience/ciraconnect/index.html",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9969,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1470,
+								1470
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "portfolio.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 330.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

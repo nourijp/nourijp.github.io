@@ -1,0 +1,11 @@
+# robots.txt for hamednouri.com
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://hamednouri.com/sitemap.xml
+
+# Disallow admin/development files
+Disallow: /node_modules/
+Disallow: /*.sublime-*
+Disallow: /archived/
